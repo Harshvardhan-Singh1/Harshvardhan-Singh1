@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on implementation of machine learning models and data analysis tools in the field of social sciences such and healthcare sector, etc and also in the field of business and finance
 - 📫 Email: harsh24111@gmail.com
 
-NOTE: Please email me if you wish to view my private projects, and the access would be given if I find it appropriate.
+**NOTE: Please email me if you wish to view my private projects, and the access would be given if I find it appropriate.**
 <!---
 Harshvardhan-Singh1/Harshvardhan-Singh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
