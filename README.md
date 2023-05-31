@@ -2,7 +2,7 @@
 
 Hi! I'm Harshvardhan Singh
 
-My passion lies within a variety of domains such as Machine Learning, Deep Learning, and Data Analytics. I am deeply invested in Computational Social Sciences, Astronomy, Healthcare, Finance, and Business Intelligence, exploring how they intersect with my primary areas of interest.
+My passion lies within a variety of domains such as Machine Learning, Deep Learning, and Data Analytics. I am deeply invested in Computational Social Sciences, Astronomy, Healthcare, Finance and Business Intelligence, exploring how they intersect with my primary areas of interest.
 
 Currently, I'm advancing my understanding and expertise in the implementation of Machine Learning algorithms within Finance and Business settings. My goal is to leverage this knowledge to devise solutions for complex problems in these fields.
 
