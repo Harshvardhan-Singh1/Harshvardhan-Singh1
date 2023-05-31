@@ -7,7 +7,7 @@
 - 1. Classifying astronomical transients - https://github.com/astrochialinko/INFO523-Final-Project/tree/Harsh
 - 2. Skin Cancer Progression Pilot Project - [git@github.com:ISTA421INFO521/Skin-Cancer-Progression.git](https://github.com/ISTA421INFO521/Skin-Cancer-Progression.git)
 
-- Research Assistant at School of Information, University of Arizona, tucson
+- Research Assistant at School of Information, University of Arizona, Tucson
 
 - 📫 Email: harsh24111@gmail.com
 
