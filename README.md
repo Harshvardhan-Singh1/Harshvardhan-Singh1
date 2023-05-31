@@ -11,7 +11,7 @@
 
 - 📫 Email: harsh24111@gmail.com
 
-**NOTE: Please email me if you wish to view my private projects, and the access would be given if I find it appropriate.**
+**NOTE: Please email me if you wish to view my private projects! **
 <!---
 Harshvardhan-Singh1/Harshvardhan-Singh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
