@@ -9,7 +9,7 @@ Currently, I'm advancing my understanding and expertise in the implementation of
 As part of my collaborative work, I am contributing to the following GitHub repositories:
 
 - [Classifying Astronomical Transients](https://github.com/astrochialinko/INFO523-Final-Project/tree/Harsh) - A project focused on the categorization of variable cosmic phenomena.
-- [Skin Cancer Progression Pilot Project](git@github.com:ISTA421INFO521/Skin-Cancer-Progression.git) - A pilot study focused on the progression of skin cancer.
+- [Skin Cancer Progression Pilot Project]([git@github.com:ISTA421INFO521/Skin-Cancer-Progression.git](https://github.com/ISTA421INFO521/Skin-Cancer-Progression)) - A pilot study focused on the progression of skin cancer.
 
 In addition to this, I'm serving as a Research Assistant at the School of Information, University of Arizona, Tucson, where I continue to apply and improve my skills.
 
