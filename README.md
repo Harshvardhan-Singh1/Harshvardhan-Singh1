@@ -1,18 +1,18 @@
-- 👋 Hi, I’m @Harshvardhan-Singh1
+# Welcome to Harshvardhan Singh's GitHub Profile
 
-- 👀 I’m interested in various Machine Learing, Deep Learning and Data Analytics concepts. I am also interested in computational Social Sciences, Finance and Business Intelligence.
+Hi! I'm Harshvardhan Singh
 
-- 🌱 I’m currently learning implementing machine learining algorithms in the field of finance and business
-- Currently, I am also maintaining the following repositories as a colaborator-
-- 1. Classifying astronomical transients - https://github.com/astrochialinko/INFO523-Final-Project/tree/Harsh
-- 2. Skin Cancer Progression Pilot Project - [git@github.com:ISTA421INFO521/Skin-Cancer-Progression.git](https://github.com/ISTA421INFO521/Skin-Cancer-Progression.git)
+My passion lies within a variety of domains such as Machine Learning, Deep Learning, and Data Analytics. I am deeply invested in Computational Social Sciences, Finance, and Business Intelligence, exploring how they intersect with my primary areas of interest.
 
-- Research Assistant at School of Information, University of Arizona, Tucson
+Currently, I'm advancing my understanding and expertise in the implementation of Machine Learning algorithms within Finance and Business settings. My goal is to leverage this knowledge to devise solutions for complex problems in these fields.
 
-- 📫 Email: harsh24111@gmail.com
+As part of my collaborative work, I am contributing to the following GitHub repositories:
 
-**NOTE: Please email me if you wish to view my private projects! **
-<!---
-Harshvardhan-Singh1/Harshvardhan-Singh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [Classifying Astronomical Transients](https://github.com/astrochialinko/INFO523-Final-Project/tree/Harsh) - A project focused on the categorization of variable cosmic phenomena.
+- [Skin Cancer Progression Pilot Project](git@github.com:ISTA421INFO521/Skin-Cancer-Progression.git) - A pilot study focused on the progression of skin cancer.
+
+In addition to this, I'm serving as a Research Assistant at the School of Information, University of Arizona, Tucson, where I continue to apply and improve my skills.
+
+To get in touch, please reach out via email: harsh24111@gmail.com.
+
+**Note:** For access to my private projects, kindly email me directly. I'm always happy to discuss my work and explore potential collaborations.
