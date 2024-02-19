@@ -12,6 +12,9 @@ As part of my collaborative work, I am contributing to the following GitHub repo
 - [Skin Cancer Progression Pilot Project](https://github.com/ISTA421INFO521/Skin-Cancer-Progression)
 
 
-To get in touch, please reach out via email: harsh24111@gmail.com.
+To get in touch, please reach out via 
+- email: harsh24111@gmail.com
+- cell phone: +1 (520) 343-7765
+- LinkedIn: [Harshvardhan Singh](https://www.linkedin.com/in/harshvardhan-singh-3509231a6/)
 
 **Note:** For access to my private projects, kindly email me directly. I'm always happy to discuss my work and explore potential collaborations.
