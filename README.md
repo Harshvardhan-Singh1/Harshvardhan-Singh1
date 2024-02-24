@@ -8,8 +8,8 @@ I'm currently working as a Research Assistant at the University of Arizona's Sch
 
 As part of my collaborative work, I am contributing to the following GitHub repositories:
 
-- [Classifying Astronomical Transients](https://github.com/astrochialinko/INFO523-Final-Project/tree/Harsh)  (currently private on GitHub, please reach out for a zoom meeting project demonstration)
 - [Skin Cancer Progression Pilot Project](https://github.com/ISTA421INFO521/Skin-Cancer-Progression)
+- [Classifying Astronomical Transients](https://github.com/astrochialinko/INFO523-Final-Project/tree/Harsh)  (currently private on GitHub, please reach out for a zoom meeting project demonstration)
 
 
 To get in touch, please reach out via 
